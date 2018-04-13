@@ -1,0 +1,9 @@
+They are identical.
+
+Schular: dig +short 42.fr @8.8.8.8 | sort
+163.172.250.11
+163.172.250.12
+Schular: dig +short 42.fr | sort
+10.52.1.11
+163.172.250.11
+163.172.250.12

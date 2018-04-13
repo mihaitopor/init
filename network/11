@@ -1,0 +1,1 @@
+route -v get slash16.org | awk '/default 10/{print}'
